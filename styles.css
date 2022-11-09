@@ -57,3 +57,14 @@ body {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+.hero-content button {
+    padding: 0.5em;
+    width: 100px;
+    height: 40px;
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7EB;
+    border-radius: 15px;
+    border: 0;
+}
