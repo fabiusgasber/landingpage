@@ -4,4 +4,34 @@ body {
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.header {
+    display: flex;
+    margin-top: 1em;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+    gap: 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    color: aqua;
 }
