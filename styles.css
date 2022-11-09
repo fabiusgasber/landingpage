@@ -35,3 +35,20 @@ body {
 .navbar a:hover {
     color: aqua;
 }
+
+.hero {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-around;
+}
+
+.hero h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero p {
+    color: #E5E7EB;
+    font-size: 18px;
+}
