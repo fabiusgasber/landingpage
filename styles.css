@@ -4,13 +4,8 @@ body {
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    font-family: "Roboto", Arial, sans-serif;
-}
-
-.content {
-    display: flex;
-    flex-direction: column;
     flex: 1;
+    font-family: "Roboto", Arial, sans-serif;
 }
 
 .header {
