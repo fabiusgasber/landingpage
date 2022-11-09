@@ -40,6 +40,11 @@ body {
     display: flex;
     background-color: #1F2937;
     justify-content: space-around;
+    padding: 2em 0;
+}
+
+.hero-content {
+    width: 25%;
 }
 
 .hero h1 {
