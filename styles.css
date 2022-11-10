@@ -5,7 +5,8 @@ body {
     display: flex;
     flex-direction: column;
     flex: 1;
-    font-family: "Roboto", Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 .header {
@@ -78,4 +79,25 @@ body {
 .images {
     display: flex;
     justify-content: center;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 10em;
+}
+
+.quote p {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+.quote figcaption {
+    text-align: end;
+    font-weight: bolder;
+    font-size: 18px;
+    color: #1F2937;
 }
