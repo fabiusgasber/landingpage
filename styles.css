@@ -19,7 +19,7 @@ body {
 .navbar ul {
     display: flex;
     list-style-type: none;
-    gap: 15px;
+    gap: 2em;
 }
 
 .navbar a {
@@ -68,6 +68,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
+    height: 500px;
 }
 
 .infos h1 {
