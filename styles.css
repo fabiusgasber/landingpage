@@ -55,7 +55,7 @@ body {
     font-size: 18px;
 }
 
-.hero-content button {
+.hero-content button, .cta button {
     padding: 0.5em 1.5em;
     background-color: #3882F6;
     font-size: 18px;
@@ -101,4 +101,31 @@ body {
     font-weight: bolder;
     font-size: 18px;
     color: #1F2937;
+}
+
+.sign-up {
+    padding: 10em;
+}
+
+.cta {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 13px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 120px;
+}
+
+.cta h1, .cta p {
+    margin: 0;
+    padding: 0;
+}
+
+.cta h1 {
+    font-size: 24px;
+}
+
+.cta button {
+    border: 2px solid #E5E7EB;
 }
