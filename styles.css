@@ -62,3 +62,20 @@ body {
     border-radius: 13px;
     border: 0;
 }
+
+.infos {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.infos h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+}
