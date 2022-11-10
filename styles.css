@@ -55,12 +55,10 @@ body {
 }
 
 .hero-content button {
-    padding: 0.5em;
-    width: 100px;
-    height: 40px;
+    padding: 0.5em 1.5em;
     background-color: #3882F6;
     font-size: 18px;
     color: #E5E7EB;
-    border-radius: 15px;
+    border-radius: 13px;
     border: 0;
 }
