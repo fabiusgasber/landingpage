@@ -41,12 +41,12 @@ body {
 .hero {
     display: flex;
     background-color: #1F2937;
-    justify-content: space-around;
+    justify-content: center;
     padding: 2em 0;
 }
 
 .hero-content {
-    width: 25%;
+    width: 50%;
 }
 
 .hero h1 {
@@ -60,6 +60,11 @@ body {
     color: #E5E7EB;
     font-size: 18px;
     font-weight: 300;
+}
+
+.hero img {
+    height: 300px;
+    width: auto;
 }
 
 .hero-content button, .cta button {
