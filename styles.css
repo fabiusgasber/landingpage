@@ -54,6 +54,7 @@ body {
 .hero p {
     color: #E5E7EB;
     font-size: 18px;
+    font-weight: 300;
 }
 
 .hero-content button, .cta button {
@@ -63,6 +64,7 @@ body {
     color: #E5E7EB;
     border-radius: 13px;
     border: 0;
+    font-weight: bolder;
 }
 
 .infos {
