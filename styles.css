@@ -67,7 +67,7 @@ body {
     width: auto;
 }
 
-.hero-content button, .cta button {
+button {
     padding: 0.5em 1.5em;
     background-color: #3882F6;
     font-size: 18px;
@@ -75,6 +75,12 @@ body {
     border-radius: 13px;
     border: 0;
     font-weight: bolder;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background: #E5E7EB;
+    color: #2b66c5;
 }
 
 .infos {
