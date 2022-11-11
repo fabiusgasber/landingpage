@@ -93,11 +93,21 @@ body {
 .images {
     display: flex;
     justify-content: center;
+    height: 300px;
+    align-items: center;
+}
+
+figure {
+    margin: 0 1em;
+}
+
+figcaption {
+    margin-top: 1em;
 }
 
 .images img {
     width: auto;
-    height: 200px;
+    height: 100px;
 }
 
 .images figcaption {
