@@ -95,6 +95,15 @@ body {
     justify-content: center;
 }
 
+.images img {
+    width: auto;
+    height: 200px;
+}
+
+.images figcaption {
+    width: 300px;
+}
+
 .quote {
     background-color: #E5E7EB;
     text-align: center;
