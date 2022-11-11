@@ -106,11 +106,11 @@ body {
     color: #1F2937;
 }
 
-.sign-up {
+.cta {
     padding: 10em;
 }
 
-.cta {
+.modal {
     background-color: #3882F6;
     color: #E5E7EB;
     border-radius: 13px;
@@ -120,16 +120,16 @@ body {
     height: 120px;
 }
 
-.cta h1, .cta p {
+.modal h1, .modal p {
     margin: 0;
     padding: 0;
 }
 
-.cta h1 {
+.modal h1 {
     font-size: 24px;
 }
 
-.cta button {
+.modal button {
     border: 2px solid #E5E7EB;
 }
 
